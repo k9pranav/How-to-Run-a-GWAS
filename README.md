@@ -1,8 +1,8 @@
 # How to Run a GWAS  (A report of the workshop can be found [here](https://www.biorxiv.org/content/10.1101/2022.09.03.506492v1).)
 
-## To build pipeline, in the summer 2021 our team designed and offered this (online) workshop to 15 senior high school students from the University of Toronto Schools (UTS) in Toronto, Ontario, Canada, selected based on their interests and readiness in statistics, genetics and computing. 
+## In the summer 2021 our team designed and offered this (online) workshop to 15 senior high school students from the University of Toronto Schools (UTS) in Toronto, Ontario, Canada, selected based on their interests and readiness in statistics, genetics and computing. 
 
-## Throughout the 4.5-day workshop, the mornings were used for lectures, providing the necessary background in genetics and statistics. The afternoons were guided tutorials, providing hands-on experience.  
+## Throughout the 4 and a half day workshop, the mornings were used for lectures, which provided the necessary background in genetics and statistics, and the afternoons were guided tutorials, which provided hands-on experience.  
 
 ## The workshop materials provided include
 - The detailed hands-on manual and the most updated version is [Open Access](https://github.com/sugolov/GWAS-Workshop) by [Anton Sugolov](https://ca.linkedin.com/in/anton-sugolov?trk=public_profile_browsemap)  and [Eric Emmenegger](https://ca.linkedin.com/in/eric-e-62a57b155?trk=people-guest_people_search-card)
